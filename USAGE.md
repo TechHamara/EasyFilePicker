@@ -1,7 +1,6 @@
 # 📂 EasyFilePicker Extension
 
 [![Developer](https://img.shields.io/badge/Developer-TechHamara-blue.svg)](https://github.com/TechHamara)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md)
 [![Platform](https://img.shields.io/badge/Platform-MIT%20App%20Inventor%202-orange.svg)]()
 [![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-yellow.svg)](https://buymeacoffee.com/techhamara)
 
